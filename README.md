@@ -15,4 +15,4 @@ A responsive, accessible explainer about artificial intelligence, its benefits, 
 5. Open `https://YOUR-USERNAME.github.io/ai-project/` and test the links, quiz and mobile view.
 
 ## AI acknowledgement
-ChatGPT helped brainstorm, draft and generate code and design ideas. The website documents the sources used. The student should review the language, verify the cited claims, test functionality and take responsibility for the final work before submitting.
+ChatGPT helped brainstorm, draft and generate some code and design ideas. The website documents the sources used.
