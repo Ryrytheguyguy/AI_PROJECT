@@ -1,18 +1,12 @@
-# AI: The Promise & The Price
+# Artificial Intelligence: Helpful or Harmful?
 
-A responsive, accessible explainer about artificial intelligence, its benefits, risks and possible future.
+A simple single-page website about AI, its benefits, risks and possible future.
 
 ## Files
-- `index.html` — all page content and semantic markup
-- `styles.css` — layout, colors, mobile styles, CSS illustrations
-- `script.js` — mobile navigation and interactive safety quiz
+- `index.html` — website text and links
+- `styles.css` — colours, spacing and basic mobile layout
 
-## How to publish
-1. Create a **public** repository named `ai-project` on GitHub.
-2. Upload the files in this folder directly to the root of the repository (not inside a nested `ai-project` folder).
-3. Go to **Settings → Pages**.
-4. Choose **Deploy from a branch**, select **main** and **/(root)**, then save.
-5. Open `https://YOUR-USERNAME.github.io/ai-project/` and test the links, quiz and mobile view.
+Open `index.html` in a browser to preview the website. To publish, upload both files to the root of a public GitHub repository and enable GitHub Pages from `main` / `(root)`.
 
-## AI acknowledgement
-ChatGPT helped brainstorm, draft and generate some code and design ideas. The website documents the sources used.
+## AI use
+ChatGPT assisted with the initial content, layout and code. Review and edit the site in your own words, check the sources and test the website before submitting. The webpage also includes an acknowledgement.
